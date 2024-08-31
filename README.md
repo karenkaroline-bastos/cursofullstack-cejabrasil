@@ -1,2 +1,2 @@
-# cursofullstack-aula-02
-Código da aula 02
+# Curso Full Stack
+Curso em parceria com a Prefeitura de São Paulo
