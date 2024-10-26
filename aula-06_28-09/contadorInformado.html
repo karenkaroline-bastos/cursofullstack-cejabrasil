@@ -1,0 +1,22 @@
+<form>
+    <imput type="mumber" id="valorMaximo" placeholder="valorMaximo"> 
+    <imput type="buttor" id="vbotaDeAcao" placeholder="Contar"> 
+</form>
+
+<script>
+
+    document.getElementById('botaoDeAcao').onclick = function(){
+
+        $valorInformado = document.getElementById('valormaximo').value;
+    
+        if ($valorInformado > 50){
+            $valorInformado = 50;
+        }
+
+    for($contador=0;$contador<=$valorInformado;$contador++){
+        document.write($contador + '<br>');
+    }
+
+}
+    
+</script>
