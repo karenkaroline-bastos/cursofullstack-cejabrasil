@@ -44,18 +44,9 @@ O portfólio é organizado em várias seções, cada uma correspondente a uma au
 - **Aula 07**: Introdução a protocolos de rede.
 - **Aula 08**: Entendimento sobre Lado do Cliente e Lado do Desenvolvedor. Desenvolvimento de um formulário web com PHP.
 
-## Como Navegar
 
 Cada diretório correspondente a uma aula contém:
 
 - **Materiais de Estudo**: Documentos e links úteis.
 - **Exercícios Práticos**: Tarefas para consolidar o aprendizado.
 - **Projetos**: Desafios e projetos desenvolvidos durante as aulas.
-
-## Contribuições
-
-Sinta-se à vontade para explorar os materiais e usar este portfólio como um guia da minha jornada de aprendizado. Sugestões e feedback são sempre bem-vindos!
-
-## Contato
-
-Para dúvidas ou sugestões, você pode me encontrar em [seu e-mail ou link de contato].
