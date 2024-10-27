@@ -1,0 +1,7 @@
+Aula 04: Mobile First e Responsividade
+
+Conteúdo: Princípios de design responsivo.
+Tópicos abordados:
+Conceito de Mobile First: desenvolvimento focado em dispositivos móveis.
+Técnicas de responsividade e design adaptativo.
+Unidades de medida no CSS (px, em, rem, %).

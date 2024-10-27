@@ -1,0 +1,7 @@
+Aula 03: Configuração do Ambiente de Desenvolvimento
+
+Conteúdo: Preparação do ambiente local para desenvolvimento web.
+Tópicos abordados:
+Ferramentas necessárias (editores de texto, navegadores).
+Introdução ao CSS: conceitos de estilo e layout.
+Uso do CSS Inline para estilizar elementos diretamente nas tags HTML.

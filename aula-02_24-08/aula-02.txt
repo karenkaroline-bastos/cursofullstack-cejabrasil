@@ -1,0 +1,7 @@
+Aula 02: Introdução ao HTML
+
+Conteúdo: Fundamentos do HTML.
+Tópicos abordados:
+História e evolução do HTML.
+Estrutura básica de uma página HTML.
+Uso das tags <h1> (título) e <p> (parágrafo) para formatação de conteúdo.

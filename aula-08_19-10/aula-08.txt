@@ -1,0 +1,7 @@
+Aula 08: Lado do Cliente vs. Lado do Servidor
+
+Conteúdo: Diferenças entre o desenvolvimento do lado do cliente e do servidor.
+Tópicos abordados:
+O que é um formulário web e sua importância.
+Desenvolvimento de um formulário usando PHP.
+Interação entre o frontend (HTML/CSS) e o backend (PHP).

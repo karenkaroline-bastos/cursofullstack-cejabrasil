@@ -1,0 +1,6 @@
+Aula 06: Lógica de Programação
+
+Conteúdo: Princípios básicos da lógica de programação.
+Tópicos abordados:
+Estruturas de controle (condicionais e loops).
+Algoritmos e como resolver problemas de forma lógica.
