@@ -1,0 +1,7 @@
+Aula 05: Tipos de Dados e Alocação de Memória
+
+Conteúdo: Fundamentos da lógica de programação.
+Tópicos abordados:
+Tipos de dados (inteiros, strings, booleanos).
+Alocação de memória: como os dados são armazenados.
+Introdução ao sistema binário e como os computadores processam informações.

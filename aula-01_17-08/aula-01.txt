@@ -1,0 +1,7 @@
+**Aula 01: Introdução à Disciplina**
+
+Conteúdo: Apresentação do curso e seus objetivos.
+Tópicos abordados:
+Conceitos básicos de versionamento de código.
+Introdução ao Git: repositórios, commits, branches.
+Uso do GitHub: como hospedar projetos e colaborar com outros desenvolvedores.

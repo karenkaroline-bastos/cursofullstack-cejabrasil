@@ -1,0 +1,7 @@
+Aula 07: Protocolos de Rede
+
+Conteúdo: Introdução à comunicação em rede.
+Tópicos abordados:
+Conceito de protocolos de rede e sua importância.
+Protocolos mais comuns (HTTP, FTP, TCP/IP).
+Como os dados são transmitidos entre cliente e servidor.
